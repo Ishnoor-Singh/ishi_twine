@@ -1,0 +1,22 @@
+{
+  "name": "ishi_twine",
+  "version": "1.0.0",
+  "bin": {
+    "twine": "./bin/twine.js"
+  },
+  "description": "Twitter CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishnoor-Singh/ishi_twine.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ishnoor-Singh/ishi_twine/issues"
+  },
+  "homepage": "https://github.com/Ishnoor-Singh/ishi_twine#readme"
+}
